@@ -23,13 +23,5 @@ Want to follow along or contribute ideas? Feel free to open an issue or connect!
 
 ---
 
-## 📫 Let’s Connect!
-Feel free to reach out or suggest cool OpenCV project ideas:
-- 🌐 [LinkedIn](#) *(Insert your link)*
-- 🐦 [Twitter](#) *(Insert your handle)*
-- 📧 Email: *(Insert your email)*
-
----
-
 > **Consistent effort beats occasional brilliance.** Let’s build something awesome, one frame at a time 🚀
 
